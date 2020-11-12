@@ -8,4 +8,4 @@ This project includes a from-scratch implementation of a simple neural net (NN),
  - Mini-batch gradient descent (with momentum)
 
 The architecture is presented below:
-![image](img/architecture.jpg)
+![image](img/architecture.png)
